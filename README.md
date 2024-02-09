@@ -1,2 +1,2 @@
 # PRS
-COllection of tools for Power Recovery Sistem (PRS) Turbines
+Collection of tools for Power Recovery Sistem (PRS) Turbines
